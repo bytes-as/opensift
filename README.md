@@ -1,2 +1,2 @@
-# opensift
-Python Implementation of SIFT (Scale-Invariant Feature Transform) Algorithm for feature extraction
+# License
+Checkout the LICENSE for legal information of terms of use this package
